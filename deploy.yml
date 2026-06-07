@@ -33,7 +33,7 @@ jobs:
               "which git || sudo yum install -y git",
 
               "sudo rm -rf html_new",
-              "git clone https://github.com/vikram7101/sibi72.git html_new",
+              "git clone https://github.com/vikram7101/sibi007.git html_new",
 
               "sudo rm -rf /var/www/html/*",
               "sudo cp -r html_new/* /var/www/html/",
